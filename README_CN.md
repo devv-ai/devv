@@ -2,6 +2,8 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/devv-ai/devv/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
 
+[English](./README.md) | [简体中文](./README_CN.md)
+
 **Devv AI 是面向开发者的新一代 AI 搜索引擎。**
 
 这是一个专门用于 [Devv AI](https://devv.ai) 的问题仓库。请使用这个仓库来报告 bug，提出功能需求或者提问。

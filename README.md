@@ -2,6 +2,8 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/devv-ai/devv/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
 
+[English](./README.md) | [简体中文](./README_CN.md)
+
 **Devv AI is an AI-powered search engine for developers.**
 
 This is an issues-only repository for [Devv AI](https://devv.ai). Please use this repository to report bugs, request features, or ask questions.
