@@ -10,7 +10,7 @@ This is an issues-only repository for [Devv AI](https://devv.ai). Please use thi
 
 Creating new tickets for bugs or feature requests is much appreciated! Please be as detailed as possible when creating a new ticket. Our goal is to make Devv AI as useful as possible for developers, and your feedback is critical to that goal.
 
-![](https://private-user-images.githubusercontent.com/7857126/287549082-b105d216-2be0-4228-9793-c524e6d58389.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE2MzcwOTUsIm5iZiI6MTcwMTYzNjc5NSwicGF0aCI6Ii83ODU3MTI2LzI4NzU0OTA4Mi1iMTA1ZDIxNi0yYmUwLTQyMjgtOTc5My1jNTI0ZTZkNTgzODkucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQUlXTkpZQVg0Q1NWRUg1M0ElMkYyMDIzMTIwMyUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyMzEyMDNUMjA1MzE1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OTQxZmI5YjExOTlmMjFmMjEzYzBkN2RiZTcxOWVlODkxMjkzNmYzYTNlYTZhY2JkMGUyZGRiNDMwOTJlNmQ5MSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.THlUVm2qJtE_uvaN3zlCdi8F37vySRC9zqeLcEIlpLo)
+![](./assets/devv-homepage.png)
 
 ## Getting Started
 
