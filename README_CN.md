@@ -1,7 +1,5 @@
 # Devv AI
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/devv-ai/devv/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
-
 [English](./README.md) | [简体中文](./README_CN.md)
 
 **Devv AI 是面向开发者的新一代 AI 搜索引擎。**
