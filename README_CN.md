@@ -2,7 +2,7 @@
 
 ![](./assets/devv-homepage.png)
 
-[English](./README.md) | [简体中文](./README_CN.md)
+[English](./README.md) | [简体中文](./README_CN.md) | [日本語](./README_JP.md)
 
 **Devv AI 是一个专为开发者设计的 AI 驱动搜索引擎，提供快速准确的编程相关查询结果。**
 
