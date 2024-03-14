@@ -1,20 +1,19 @@
 # Devv AI
 
-![](./assets/devv-twitter-bio.png)
+![](./assets/devv-homepage.png)
 
 [English](./README.md) | [简体中文](./README_CN.md)
 
 **Devv AI is an AI-powered search engine specifically designed for developers, providing fast and accurate results to programming-related queries.**
 
 This is an issues-only repository for [Devv AI](https://devv.ai). Please use this repository to:
+
 - Report bugs
 - Request new features
 - Ask questions
 - Provide feedback
 
 We highly appreciate your contributions in creating new tickets for bugs or feature requests. To help us better understand and address your concerns, please provide as much detail as possible when submitting a new ticket. Our goal is to make Devv AI an indispensable tool for developers, and your feedback is essential to achieving this objective.
-
-![](./assets/devv-homepage.png)
 
 ## Getting Started
 
