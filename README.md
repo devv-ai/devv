@@ -4,30 +4,50 @@
 
 [English](./README.md) | [简体中文](./README_CN.md)
 
-**Devv AI is an AI-powered search engine for developers.**
+**Devv AI is an AI-powered search engine specifically designed for developers, providing fast and accurate results to programming-related queries.**
 
-This is an issues-only repository for [Devv AI](https://devv.ai). Please use this repository to report bugs, request features, or ask questions.
+This is an issues-only repository for [Devv AI](https://devv.ai). Please use this repository to:
+- Report bugs
+- Request new features
+- Ask questions
+- Provide feedback
 
-Creating new tickets for bugs or feature requests is much appreciated! Please be as detailed as possible when creating a new ticket. Our goal is to make Devv AI as useful as possible for developers, and your feedback is critical to that goal.
+We highly appreciate your contributions in creating new tickets for bugs or feature requests. To help us better understand and address your concerns, please provide as much detail as possible when submitting a new ticket. Our goal is to make Devv AI an indispensable tool for developers, and your feedback is essential to achieving this objective.
 
 ![](./assets/devv-homepage.png)
 
 ## Getting Started
 
-Go to [Devv AI](https://devv.ai) and start searching!
+1. Visit [Devv AI](https://devv.ai)
+2. Enter your search query related to programming, frameworks, libraries, or tools
+3. Browse through the search results and find the most relevant information
 
-## Features
+## Key Features
 
-It's early days for Devv AI, but here are some of the features we're working on:
+- AI-powered search engine tailored for developers
+- Fast and accurate search results
+- Supports various programming languages and frameworks
+- Continuously learning and improving based on user interactions
 
-- More language support, including Japanese, Chinese, and Korean
-- Copilot mode
-- Searching user experience improvements
+## Upcoming Features
+
+We are actively working on expanding Devv AI's capabilities. Some of the features in our pipeline include:
+
+- [x] Support for additional languages, such as Japanese, Chinese, and Korean
+- [x] Agent mode for real-time coding assistance
+- [ ] Enhanced user experience for searching and navigating results
+- [ ] Integration with popular developer tools and platforms
 
 ## Roadmap
 
-TBD
+We are currently in the process of defining our roadmap. Stay tuned for updates on our short-term and long-term goals, milestones, and timelines.
 
-## OSS
+## Contributing
 
-We will open source the base version of Devv AI in the future. Stay tuned!
+We welcome contributions from the developer community to help improve Devv AI. If you encounter any bugs, have feature requests, or want to provide feedback, please create a new issue in this repository. We appreciate your valuable input!
+
+## Contact
+
+If you have any questions or need further assistance, feel free to reach out to us at [support@devv.ai](mailto:support@devv.ai).
+
+Happy coding with Devv AI!
