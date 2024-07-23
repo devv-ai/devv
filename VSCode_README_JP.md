@@ -1,5 +1,7 @@
 # Devv.AI - 無料の VSCode AI コーディングアシスタント
 
+[中文](./VSCode_README_CN.md) | [English](./VSCode_README.md)
+
 ![Devv VSCode 拡張機能の概要](./assets/devv-vscode.gif)
 
 Devv VSCode 拡張機能は、開発者向けの AI 駆動検索エンジン [Devv.AI](https://devv.ai) の強力な機能を Visual Studio Code エディターに直接もたらします。

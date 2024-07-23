@@ -1,5 +1,7 @@
 # Devv.AI - Free AI Coding Assistant for VSCode
 
+[中文](./VSCode_README_CN.md) | [日本語](./VSCode_README_JP.md)
+
 ![Overview of Devv VSCode Extension](./assets/devv-vscode.gif)
 
 Devv VSCode Extension brings the power of [Devv.AI](https://devv.ai), an AI-powered search engine for developers, directly into your Visual Studio Code editor.

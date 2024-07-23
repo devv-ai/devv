@@ -1,5 +1,7 @@
 # Devv.AI - 免费的 VSCode AI 编码助手
 
+[English](./VSCode_README.md) | [日本語](./VSCode_README_JP.md)
+
 ![Devv VSCode 扩展概述](./assets/devv-vscode.gif)
 
 Devv VSCode 扩展将 [Devv.AI](https://devv.ai) 的强大功能直接带入您的 Visual Studio Code 编辑器，这是一个为开发者设计的 AI 驱动搜索引擎。
